@@ -1,0 +1,47 @@
+nav {
+    background-color: #28A745; /* Usé los mismos colores de la página en lugar de emplear la clase text-success con bootstrap */
+    font-family: 'Roboto', sans-serif;
+}
+
+nav .logo {
+    height: 4rem;
+}
+
+.seccioncartas {
+    font-family: 'Roboto', sans-serif;
+}
+
+section h5 {
+    font-size: 1.2rem;
+}
+
+section .subtitulo{
+    font-size: 1rem;
+}
+
+.ubicacion {
+    font-size: 0.9rem;
+}
+
+.icono {
+    font-size: 1rem;
+}
+
+.precioverde {
+    color: #28A745;
+}
+
+.formulario {
+    background-color: #28A745;
+    font-family: 'Roboto', sans-serif;
+}
+
+footer .logofooter {
+    height: 2rem;
+}
+
+footer p {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* font-family: 'Roboto', sans-serif; */
